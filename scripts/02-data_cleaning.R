@@ -1,8 +1,8 @@
 #### Preamble ####
 # Purpose: Cleans the raw plane data recorded by two observers..... [...UPDATE THIS...]
-# Author: Yunzhao Li [...UPDATE THIS...]
+# Author: Sirui Tan [...UPDATE THIS...]
 # Date: 26 March 2024 [...UPDATE THIS...]
-# Contact: yunzhao.li@mail.utoronto.ca [...UPDATE THIS...]
+# Contact: sirui.tan@mail.utoronto.ca [...UPDATE THIS...]
 # License: MIT
 # Pre-requisites: [...UPDATE THIS...]
 # Any other information needed? [...UPDATE THIS...]

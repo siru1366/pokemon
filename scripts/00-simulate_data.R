@@ -2,7 +2,7 @@
 # Purpose: Simulates an analysis dataset about Pokemon level and weakness against fire
 # Author: Yunzhao Li
 # Date: 26 March 2024
-# Contact: yunzhao.li@mail.utoronto.ca
+# Contact: sirui.tan@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: -
 # Any other information needed? -

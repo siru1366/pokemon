@@ -1,6 +1,6 @@
 #### Preamble ####
 # Purpose: Downloads and saves the data from [...UPDATE THIS...]
-# Author: Yunzhao Li [...UPDATE THIS...]
+# Author: Sirui Tan [...UPDATE THIS...]
 # Date: 26 March 2024 [...UPDATE THIS...]
 # Contact: sirui.tan@mail.utoronto.ca [...UPDATE THIS...]
 # License: MIT

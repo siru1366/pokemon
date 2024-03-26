@@ -1,6 +1,6 @@
 #### Preamble ####
 # Purpose: Simulates an analysis dataset about Pokemon level and weakness against fire
-# Author: Yunzhao Li
+# Author: Sirui Tan
 # Date: 26 March 2024
 # Contact: sirui.tan@mail.utoronto.ca
 # License: MIT
